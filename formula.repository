@@ -1,0 +1,11 @@
+\form#0:\[ z = \frac{8 * \mbox{projector\_depth\_baseline} * f}{(\mbox{shift\_offset} - d)} \]
+\form#1:$f$
+\form#2:$x$
+\form#3:$y$
+\form#4:\begin{eqnarray*} x &=& (u - c_x) \frac{z}{f} \\ y &=& (v - c_y) \frac{z}{f} \end{eqnarray*}
+\form#5:$[c_x, c_y]$
+\form#6:$ u * width + v $
+\form#7:$ 1/2^downsampleFactor $
+\form#8:$ 1/2^{downsampleFactor} $
+\form#9:$(u, v)$
+\form#10:$(X, Y, Z)$
